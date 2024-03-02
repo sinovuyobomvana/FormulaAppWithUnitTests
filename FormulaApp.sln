@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormularApp.Api", "FormularApp.Api\FormularApp.Api.csproj", "{4BCD0798-1FAD-4A51-9934-269D7D12E6F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormularApp.UnitTests", "FormularApp.UnitTests\FormularApp.UnitTests.csproj", "{22AAA8B2-EC48-4753-A82C-A0DDC428407E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BCD0798-1FAD-4A51-9934-269D7D12E6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCD0798-1FAD-4A51-9934-269D7D12E6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCD0798-1FAD-4A51-9934-269D7D12E6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCD0798-1FAD-4A51-9934-269D7D12E6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AAA8B2-EC48-4753-A82C-A0DDC428407E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AAA8B2-EC48-4753-A82C-A0DDC428407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AAA8B2-EC48-4753-A82C-A0DDC428407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AAA8B2-EC48-4753-A82C-A0DDC428407E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E3969D-7602-4579-8868-63EBB36F732A}
+	EndGlobalSection
+EndGlobal
