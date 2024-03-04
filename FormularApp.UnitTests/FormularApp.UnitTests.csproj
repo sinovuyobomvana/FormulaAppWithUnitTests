@@ -28,9 +28,4 @@
     <ProjectReference Include="..\FormularApp.Api\FormularApp.Api.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Helpers\" />
-    <Folder Include="Systems\Services\" />
-  </ItemGroup>
-
 </Project>
